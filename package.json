@@ -13,12 +13,12 @@
     "report": "node report.js"
   },
   "dependencies": {
-    "body-parser": "1.20.2",
+    "body-parser": "1.20.6",
     "chalk": "4.1.2",
     "cookie-parser": "1.4.6",
-    "express": "4.17.1",
+    "express": "4.22.0",
     "glob": "7.2.3",
-    "morgan": "1.10.0",
+    "morgan": "1.11.0",
     "node-fetch": "2.6.7"
   }
 }
